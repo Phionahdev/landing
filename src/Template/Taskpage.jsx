@@ -6,7 +6,7 @@ import { FaFacebook} from 'react-icons/fa6'
 function Taskpage() {
   return (
     <div className="min-h-screen p-8 bg-orange-600">
-        <div className='text-white text-center'>
+        <div className='text-white text-center' >
           <h1>LANDING PAGE TEMPLATE</h1>
           <div className='text-orange-200'>
           <h6>business</h6>
