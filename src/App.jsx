@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/taskpage" element={<Taskpage />} />
+        <Route index element={<Taskpage />} />
       </Routes>
     </>
   );
